@@ -17,6 +17,9 @@ class MainActivity : AppCompatActivity()
         setContentView(R.layout.activity_main)
     }
 
+
+
+
     fun numberAction(view: View)
     {
         if(view is Button)
